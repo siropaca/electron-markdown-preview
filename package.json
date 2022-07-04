@@ -1,0 +1,21 @@
+{
+  "name": "electron-markdown-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "version": "electron -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siropaca/electron-markdown-preview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siropaca/electron-markdown-preview/issues"
+  },
+  "homepage": "https://github.com/siropaca/electron-markdown-preview#readme"
+}
