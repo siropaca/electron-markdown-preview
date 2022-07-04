@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "electron .",
-    "version": "electron -v"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/siropaca/electron-markdown-preview/issues"
   },
-  "homepage": "https://github.com/siropaca/electron-markdown-preview#readme"
+  "homepage": "https://github.com/siropaca/electron-markdown-preview#readme",
+  "devDependencies": {
+    "electron": "^19.0.7",
+    "electron-packager": "^15.5.1"
+  }
 }
